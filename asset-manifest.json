@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.5fd23d2b.css",
-    "main.js": "/static/js/main.0897e672.js",
-    "static/js/104.b1c57ff7.chunk.js": "/static/js/104.b1c57ff7.chunk.js",
+    "main.js": "/static/js/main.650c874d.js",
+    "static/js/104.b02f7228.chunk.js": "/static/js/104.b02f7228.chunk.js",
     "static/js/483.73ec682e.chunk.js": "/static/js/483.73ec682e.chunk.js",
+    "static/media/signin-banner.png": "/static/media/signin-banner.b19225e2d14eb9547897.png",
     "static/media/ImageArchitect3.png": "/static/media/ImageArchitect3.db5ecbbde9f4af32d7d3.png",
     "static/media/BackgroundCard1.png": "/static/media/BackgroundCard1.55c062c0873c8bc288f8.png",
     "static/media/ImageArchitect2.png": "/static/media/ImageArchitect2.960c2b9cde21744e7afb.png",
     "static/media/ImageArchitect1.png": "/static/media/ImageArchitect1.032614a5ad672027d4b3.png",
-    "static/media/signInImage.png": "/static/media/signInImage.eeb0c777f5867442d1a2.png",
     "static/media/BgSignUp.png": "/static/media/BgSignUp.2dea4acf779bbfe49e5c.png",
     "static/media/ProfileBackground.png": "/static/media/ProfileBackground.4dc796b07c2dd6c16f56.png",
     "static/media/people-image.png": "/static/media/people-image.1105fc1fed531403e3d2.png",
@@ -49,12 +49,12 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/index.html",
     "main.5fd23d2b.css.map": "/static/css/main.5fd23d2b.css.map",
-    "main.0897e672.js.map": "/static/js/main.0897e672.js.map",
-    "104.b1c57ff7.chunk.js.map": "/static/js/104.b1c57ff7.chunk.js.map",
+    "main.650c874d.js.map": "/static/js/main.650c874d.js.map",
+    "104.b02f7228.chunk.js.map": "/static/js/104.b02f7228.chunk.js.map",
     "483.73ec682e.chunk.js.map": "/static/js/483.73ec682e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fd23d2b.css",
-    "static/js/main.0897e672.js"
+    "static/js/main.650c874d.js"
   ]
 }
