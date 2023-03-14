@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.5fd23d2b.css",
-    "main.js": "/static/js/main.22e5694b.js",
+    "main.js": "/static/js/main.a04cc989.js",
     "static/media/signin-banner.png": "/static/media/signin-banner.b19225e2d14eb9547897.png",
     "static/media/ImageArchitect3.png": "/static/media/ImageArchitect3.db5ecbbde9f4af32d7d3.png",
     "static/media/BackgroundCard1.png": "/static/media/BackgroundCard1.55c062c0873c8bc288f8.png",
     "static/media/ImageArchitect2.png": "/static/media/ImageArchitect2.960c2b9cde21744e7afb.png",
+    "static/media/signup-banner.png": "/static/media/signup-banner.0b0bfc8c11aa76666b29.png",
     "static/media/ImageArchitect1.png": "/static/media/ImageArchitect1.032614a5ad672027d4b3.png",
-    "static/media/BgSignUp.png": "/static/media/BgSignUp.2dea4acf779bbfe49e5c.png",
     "static/media/ProfileBackground.png": "/static/media/ProfileBackground.4dc796b07c2dd6c16f56.png",
     "static/media/people-image.png": "/static/media/people-image.1105fc1fed531403e3d2.png",
     "static/media/avatar2.png": "/static/media/avatar2.5692c39db4f8c0ea999e.png",
@@ -48,10 +48,10 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/index.html",
     "main.5fd23d2b.css.map": "/static/css/main.5fd23d2b.css.map",
-    "main.22e5694b.js.map": "/static/js/main.22e5694b.js.map"
+    "main.a04cc989.js.map": "/static/js/main.a04cc989.js.map"
   },
   "entrypoints": [
     "static/css/main.5fd23d2b.css",
-    "static/js/main.22e5694b.js"
+    "static/js/main.a04cc989.js"
   ]
 }
